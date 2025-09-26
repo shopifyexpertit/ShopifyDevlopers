@@ -1,6 +1,6 @@
 # ShopifyDevlopers
 
-Shopifyv Devlopers
+Shopify Devlopers
 
 Personal Information:
 
